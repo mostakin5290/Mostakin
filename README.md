@@ -100,10 +100,14 @@ const mostakin = new Developer();
 console.log(mostakin.currentFocus);
 ```
 
-### ⏱️ Weekly Coding Stats
+<div align="center">
+  
+### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</div>
 
 <table width="100%">
 <tr>
@@ -130,37 +134,76 @@ console.log(mostakin.currentFocus);
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### Frontend Development
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css,sass&theme=dark" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### Backend Development
+### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgresql,redis,prisma&theme=dark" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### DevOps & Cloud
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,git,github,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
-### Programming Languages
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,cpp,python,java&theme=dark" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🔧 Tools & IDE
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -168,11 +211,13 @@ console.log(mostakin.currentFocus);
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostakin5290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostakin5290&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostakin5290&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostakin5290&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostakin5290&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostakin5290&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostakin5290&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostakin5290&theme=tokyonight" />
 
 </div>
 
@@ -180,11 +225,23 @@ console.log(mostakin.currentFocus);
 
 <div align="center">
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Graph
 
-<img src="https://github-profile-trophy.vercel.app/?username=mostakin5290&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostakin5290&custom_title=Mostakin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true" width="100%"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=mostakin5290&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -272,6 +329,20 @@ Comprehensive collection of 500+ LeetCode problems with detailed explanations an
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostakin5290/Mostakin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostakin5290/Mostakin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mostakin5290/Mostakin/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
