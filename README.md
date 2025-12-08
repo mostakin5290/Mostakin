@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- 3D CYLINDER HEADER WITH GRADIENT -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:303030,100:8A2BE2&height=180&section=header&text=MOSTAKIN%20MONDAL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Architect%20%7C%20Cloud%20Native%20Developer&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:303030,100:8A2BE2&height=180&section=header&text=MOSTAKIN%20MONDAL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=65&descSize=18" width="100%"/>
 
 <!-- 3D ISOMETRIC DEVELOPER GIF -->
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c4d3b455648879.598e35a396e96.gif" width="400" />
 
 <!-- GLOWING TYPING EFFECT WITH MULTIPLE ANIMATIONS -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=28&duration=2000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=System.initialized();Building+the+Future+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+Docker;Deploying+to+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=28&duration=2000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Building+the+Future;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
 </a>
 
 <br/>
+<br/><br/>
 
 <!-- 3D FLOATING SOCIAL BADGES -->
 <p>
@@ -27,7 +27,7 @@
 <a href="mailto:m.mostakin5840@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
-<a href="https://leetcode.com/mostakin5290" target="_blank">
+<a href="https://leetcode.com/u/Mostakin42/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
 </a>
 </p>
@@ -79,31 +79,34 @@
 <table>
 <tr>
 <td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=javascript" width="45" /><br />JavaScript
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=typescript" width="45" /><br />TypeScript
+</td>
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=react" width="45" /><br />React
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br />Next.js
+<img src="https://skillicons.dev/icons?i=redux" width="45" /><br />Redux
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br />Node
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br />Node.js
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=ts" width="45" /><br />TypeScript
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=docker" width="45" /><br />Docker
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="45" /><br />K8s
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=aws" width="45" /><br />AWS
+<img src="https://skillicons.dev/icons?i=express" width="45" /><br />Express
 </td>
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br />MongoDB
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=redis" width="45" /><br />Redis
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" /><br />Tailwind
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=docker" width="45" /><br />Docker
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=cpp" width="45" /><br />C++
 </td>
 </tr>
 </table>
@@ -111,7 +114,7 @@
 <br/>
 
 <!-- ADDITIONAL TECH STACK -->
-<img src="https://skillicons.dev/icons?i=cpp,python,java,redux,express,nestjs,graphql,postgres,prisma,tailwind,git,linux,vim,vscode,postman,vite&perline=16&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,git,aws,vite,prisma,github,vscode,postman,npm,jwt&perline=12&theme=dark" />
 
 </div>
 
@@ -155,7 +158,9 @@
 
 ## Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=mostakin5290&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mostakin5290&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</p>
 
 </div>
 
@@ -185,26 +190,42 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
+<br/>
+
 <table>
 <tr>
-<td align="center" width="400">
+<td align="center" width="450">
 
-```diff
-+ Freelance Projects
-+ Full-Time Positions
-+ Open Source Contributions
-+ Technical Consulting
-```
+### 💼 Open For Opportunities
+
+<img src="https://img.shields.io/badge/Freelance_Projects-00F0FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Full_Time_Positions-8A2BE2?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Open_Source-FFD700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Tech_Consulting-FF6B6B?style=for-the-badge&labelColor=000000" />
 
 </td>
-<td align="center" width="400">
+<td align="center" width="450">
 
-<td align="center" width="400">
+### 📬 Get In Touch
 
-**m.mostakin5840@gmail.com**  
-**Response:** < 24 hours  
-**Mode:** Remote / Hybrid  
-**Status:** Available Now
+<table>
+<tr>
+<td><b>Email</b></td>
+<td>m.mostakin5840@gmail.com</td>
+</tr>
+<tr>
+<td><b>Response</b></td>
+<td>< 24 hours</td>
+</tr>
+<tr>
+<td><b>Mode</b></td>
+<td>Remote / Hybrid</td>
+</tr>
+<tr>
+<td><b>Status</b></td>
+<td>Available Now</td>
+</tr>
+</table>
 
 </td>
 </tr>
